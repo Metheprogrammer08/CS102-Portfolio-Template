@@ -58,6 +58,13 @@ export const PROJECTS: Project[] = [
       'https://res.cloudinary.com/read-cv/video/upload/t_v_b/v1/1/profileItems/W2azTw5BVbMXfj7F53G92hMVIn32/XSfIvT7BUWbPRXhrbLed/ee6871c9-8400-49d2-8be9-e32675eabf7e.mp4',
     id: 'project2',
   },
+  {
+    name: "My club's website",
+    description: 'A simple website to introduce our informatics club.',
+    link: "https://pnit.club/",
+    video: "https://th.bing.com/th/id/R.5ce088d9f758a1ae0b3126711af4f19c?rik=mE1wOy8STGkz4g&pid=ImgRaw&r=0",
+    id: 'project3'
+  }
 ]
 
 export const WORK_EXPERIENCE: WorkExperience[] = [
@@ -94,6 +101,12 @@ export const BLOG_POSTS: BlogPost[] = [
     link: '/blog/exploring-the-intersection-of-design-ai-and-design-engineering',
     uid: 'blog-1',
   },
+  {
+    title: "My First Post",
+    description: 'A brief introduction to my blog',
+    link: '/blog/my-first-post',
+    uid: 'blog-2',
+  }
 ]
 
 export const SOCIAL_LINKS: SocialLink[] = [
