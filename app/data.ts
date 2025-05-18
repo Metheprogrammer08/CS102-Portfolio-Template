@@ -29,7 +29,7 @@ type SocialLink = {
 
 export const EMAIL = 'daviddoforwork@gmail.com'
 
-export const WEB_TITLE = 'Đỗ Như Hải\' - Portfolio'
+export const WEB_TITLE = 'Đỗ Như Hải\'s - Portfolio'
 export const WEB_DESCRIPTION =
   'A personal website showcasing my work and projects.'
 export const FOOTER_COPYRIGHT = '© 2025 Đỗ Như Hải.'
